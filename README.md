@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dany942
-- 👀 I’m interested in JS, Python, ...
+- 👀 I’m interested in JS, Python, Java ...
 - 🌱 I’m currently learning Angular
 
 <!---
